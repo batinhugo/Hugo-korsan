@@ -1,4 +1,6 @@
 This is a simple delivery job made for QBCore-based FiveM servers. Players take tasks from an NPC and deliver illegal items to random locations. The system is kept minimal and educational, designed to help beginners understand basic job logic. Ideal for learning and further development.
+
+
 📦 hugo-korsan (QBCore)
 A simple illegal delivery job system developed for FiveM servers using the QBCore framework.
 🛠️ Features:
