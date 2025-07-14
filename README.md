@@ -12,7 +12,7 @@ Carry prop (bag/box) in hand with animation
 
 Deliver to a different NPC with delivery animation
 
-20% chance of triggering a police alert (notify + waypoint)
+20% chance of triggering a police alert (notify)
 
 Cancel delivery anytime via the job NPC
 
@@ -24,7 +24,5 @@ Compatible with qb-core, qb-target, and ox_lib
 
 🔧 Requirements:
 qb-core
-
 qb-target
-
 ox_lib
