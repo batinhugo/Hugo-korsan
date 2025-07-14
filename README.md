@@ -20,9 +20,4 @@ Cash payment system
 
 No unnecessary items, vehicles, or inventory clutter
 
-Compatible with qb-core, qb-target, and ox_lib
-
-🔧 Requirements:
-qb-core
-qb-target
-ox_lib
+Compatible with qb-core,  qb-target, and ox_lib
